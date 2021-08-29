@@ -10,29 +10,39 @@ Integrantes:
 * Roberth Pincha
 * Carlos Quel
 * Sebastian Valencia
-* Michael Valenzuela
+* Michaelle Valenzuela
 
 # Parte 1
 
 ![image](https://user-images.githubusercontent.com/66259796/131237579-85f33c49-f96b-489a-bcde-5983e5d658fa.png)
+Como primera parte vamos a recolectar informarcion de twitter, para lo cual vamos usar un script y la ejecutaremos en python con las respectivas credenciales de desarrollador de twitter como son los access token 
 
 ![image](https://user-images.githubusercontent.com/66259796/131237591-96ccdedd-b070-4cd0-87fd-d03d53ea1177.png)
+Trabajando en el mismo script vamos a guardar toda la informacion recopilada en nuestra BD couchDB, para lo cual determinamos el puerto de enlace y el nombre de nuestra base, en la ultima parte definimos la ubicacion de las diferentes ciudades en donde recopilaremos la informacion.
 
 ![3](https://user-images.githubusercontent.com/66259796/131237303-f0730127-7bd7-42ce-b81a-aed8d8f0dcd6.PNG)
+Tenemos una captura de la terminal en donde podemos visualizar como trabaja el script
 
 ![image](https://user-images.githubusercontent.com/66259796/131237620-20260d75-9407-40f4-8d32-f204e79ed416.png)
+Volvemos a ejecutar el mismo script para continuar con la recopilacion de informacion
 
 ![image](https://user-images.githubusercontent.com/66259796/131237628-75caf1f4-c0a5-445e-a72a-3cf5494d1b42.png)
+Ejecutamos el mismo script pero modificando la ubicacion para cambiar la ciudad objetivo para la recopilacion de informacion
 
 ![2](https://user-images.githubusercontent.com/66259796/131237306-4d69119e-426d-4dbd-b8de-85a06feba643.PNG)
+Podemos observar de igual forma como el script trabaja
 
 ![image](https://user-images.githubusercontent.com/66259796/131237659-f2ffe055-a232-48cf-8948-b1251a7a8610.png)
+Volvemos a ejecutar el mismo escript para continuar con la recopilacion de informacion
 
 ![image](https://user-images.githubusercontent.com/66259796/131237672-89044708-2b8d-40b1-a310-0fe232e8809a.png)
+De igual forma podemos visualizar la parte final del script en donde definimos la ubicacion objetivo de la recopilacion de informacion
 
 ![1](https://user-images.githubusercontent.com/66259796/131237292-370afe3a-55ba-4f69-8811-642f5ba8cd69.PNG)
+De igual forma podemos observar como trabaja el script
 
 ![image](https://user-images.githubusercontent.com/66259796/131237500-c37a8318-2cec-4fd4-a100-c3a64b97bd88.png)
+Como parte final de este apartado podemos visualizar cada una de las BD con la informacion recopilada y almacenada en couchDB
 
 # Parte 2
 
